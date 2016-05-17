@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/181463/13a4bd1ea2224e04b2058661257d040e
+bundleId: https://api.rpubs.com/api/v1/document/181463/13a4bd1ea2224e04b2058661257d040e
+url: http://rpubs.com/shantishakya/181463
+when: 1463422548.79425
